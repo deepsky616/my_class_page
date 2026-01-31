@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-education/sw/","title":"‘학습지원 SW’ 기준 마련에 현장 반발","tags":["교육","AI","SW","디지털교과서","개인정보보호"]}
+{"dg-publish":true,"permalink":"/02-education/sw/","title":"‘학습지원 SW’ 기준 마련에 현장 반발","tags":["#교육","#AI","#SW","#디지털교과서","#개인정보보호"]}
 ---
 
 
